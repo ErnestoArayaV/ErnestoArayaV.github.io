@@ -1,22 +1,21 @@
-title: Yaoyao Liu
-position: Ph.D. Candidate
-affiliation: Max Planck Institute for Informatics
-affiliation_link: https://www.mpi-inf.mpg.de/
-email: yaoyao.liu (at) mpi-inf.mpg.de
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://files.yliu.de/Yaoyao_Liu_Resume.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
-avatar: https://img.yliu.de/avatar.jpg
+title: Ernesto Araya Valdivia
+position: Postdoc researcher at Modal Team
+affiliation: Inria Lille - Nord Europe
+affiliation_link:
+email: ernesto-javier.araya-valdivia (at) inria.fr
+google_scholar: https://scholar.google.com/citations?hl=en&user=kXD5AegAAAAJ
+cv_link:
+github_link: https://github.com/ErnestoArayaV/
+linkedin: https://www.linkedin.com/in/ernesto-araya-valdivia/
+twitter:
+avatar:./assets/img/EAraya_web_profile.jpg
 google_analytics: UA-111540567-4
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
-description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informatics. His research lies in meta-learning, incremental learning, and image generation.
-canonical: https://www.mpi-inf.mpg.de/~yaliu/
-imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
-data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
+favicon:
+favicon_dark:
+description:
+canonical:
+imprint:
+data_protection:
 
 exclude:
   - Gemfile
