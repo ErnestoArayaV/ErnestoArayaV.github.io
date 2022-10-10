@@ -10,13 +10,14 @@ My research insterest are **mathematical statistics** and **machine learning** -
 ranking problems.
 
 ## Publications and preprints
--**Dynamic Ranking and Translation Synchronization** [arXiv](https://arxiv.org/abs/2207.01455) 
+-**Dynamic Ranking and Translation Synchronization** [arXiv](https://arxiv.org/abs/2207.01455),
+
 Joint work with Hemant Tyagi and Eglantine Karlé
 
 -**Seeded graph matching for the correlated Wigner model via the projected power method** [arXiv](https://arxiv.org/abs/2204.04099), 
 Joint work with Hemant Tyagi and Guillaume Braun
 
--**Random Geometric Graphs on Euclidean Balls**[arXiv](https://arxiv.org/abs/2010.13734)
+-**Random Geometric Graphs on Euclidean Balls** [arXiv](https://arxiv.org/abs/2010.13734)
 
 -**Relative concentration bounds for the spectrum of kernel matrices** [arXiv](https://arxiv.org/abs/1812.02108)
 
