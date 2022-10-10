@@ -4,14 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoc at [Inria Lille-Nord Europe](https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille) within the Modal Team, where I work in the subject of inference problems on graphs. From 2017 to 2020, I did my PhD thesis at [Laboratoire Mathematiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/), under the supervision of [Yohann De Castro](https://ydecastro.github.io/). I obtained my bachelor’s degree and engineering diploma from [University of Chile](https://www.dim.uchile.cl/). 
+I am currently a Postdoc at [Inria Lille-Nord Europe](https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille) within the Modal Team, where I work in the subject of inference problems on graphs. From 2017 to 2020, I did my PhD thesis at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/), under the supervision of [Yohann De Castro](https://ydecastro.github.io/). I obtained my bachelor's and engineering degree from [University of Chile](https://www.dim.uchile.cl/). 
 
 My research insterest are **mathematical statistics** and **machine learning** -- more specifically focus on efficient algorithms for extracting information from network data and the theory of kernel methods. Lately, I have been working mostly on the graph matching and dynamic 
 ranking problems.
 
 ## Publications and preprints
 -**Dynamic Ranking and Translation Synchronization** [arXiv](https://arxiv.org/abs/2207.01455),
-
 Joint work with Hemant Tyagi and Eglantine Karlé
 
 -**Seeded graph matching for the correlated Wigner model via the projected power method** [arXiv](https://arxiv.org/abs/2204.04099), 
