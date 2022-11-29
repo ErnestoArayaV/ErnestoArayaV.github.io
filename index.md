@@ -12,14 +12,14 @@ ranking problems.
 ## Publications and preprints
 -**Dynamic Ranking and Translation Synchronization** [arXiv](https://arxiv.org/abs/2207.01455),
 Presented at SIAM Workshop on Network Science [NS22](http://dyn.phys.northwestern.edu/ns22.html).
-Joint work with Hemant Tyagi and Eglantine Karlé (*submitted*)
+Joint work with Hemant Tyagi and Eglantine Karlé -(*submitted*)
 
 -**Seeded graph matching for the correlated Wigner model via the projected power method** [arXiv](https://arxiv.org/abs/2204.04099)
-Joint work with Hemant Tyagi and Guillaume Braun (*submitted*)
+Joint work with Hemant Tyagi and Guillaume Braun -(*submitted*)
 
 -**Random Geometric Graphs on Euclidean Balls** [arXiv](https://arxiv.org/abs/2010.13734)
 
--**Relative concentration bounds for the spectrum of kernel matrices** [arXiv](https://arxiv.org/abs/1812.02108) (*submitted*)
+-**Relative concentration bounds for the spectrum of kernel matrices** [arXiv](https://arxiv.org/abs/1812.02108) -(*submitted*)
 
 -**Latent distance estimation for random geometric graphs** [NeurIPS 2019](https://papers.nips.cc/paper/2019/hash/c4414e538a5475ec0244673b7f2f7dbb-Abstract.html).
 Joint work with Yohann De Castro
