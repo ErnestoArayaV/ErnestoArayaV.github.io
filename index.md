@@ -11,14 +11,14 @@ My research interests encompass **mathematical statistics** and **machine learni
 
 ## Publications and preprints
 
--**Matching correlated VAR time series**[Arxiv](https://arxiv.org/pdf/2511.18553)
+-**Matching correlated VAR time series** [Arxiv](https://arxiv.org/pdf/2511.18553)
 Joint work with Hemant Tyagi
  
 -**Random spiking neural networks are stable and spectrally simple** [Arxiv](https://arxiv.org/pdf/2511.00904)
 To be presented at the Northern Lights Deep Learning Conference [NLDL](https://www.nldl.org/home)
 Joint work with Massimiliano Datres and Gitta Kutyniok
 
--**Mathematical foundations of Spiking Neural Networks**[Arxiv](https://arxiv.org/pdf/2503.02013)
+-**Mathematical foundations of Spiking Neural Networks** [Arxiv](https://arxiv.org/pdf/2503.02013)
 To appear at IEEE Signal Processing Magazine, special issue.
 Joint work with Adalbert Fono, Manjot Singh, Phillip Petersen, Holger Boche and Gitta Kutyniok. 
 
