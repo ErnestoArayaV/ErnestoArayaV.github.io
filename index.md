@@ -11,35 +11,35 @@ My research interests encompass **mathematical statistics** and **machine learni
 
 ## Publications and preprints
 
--\[2025\] **Matching correlated VAR time series**\ [Arxiv](https://arxiv.org/pdf/2511.18553)\
+-\[2025\] **Matching correlated VAR time series** \ [Arxiv](https://arxiv.org/pdf/2511.18553)\
 Joint work with Hemant Tyagi
  
--\[2025\] **Random spiking neural networks are stable and spectrally simple**\ [Arxiv](https://arxiv.org/pdf/2511.00904)\
-To be presented at the Northern Lights Deep Learning Conference [NLDL](https://www.nldl.org/home).\
+-\[2025\] **Random spiking neural networks are stable and spectrally simple** \ [Arxiv](https://arxiv.org/pdf/2511.00904) \
+To be presented at the Northern Lights Deep Learning Conference [NLDL](https://www.nldl.org/home) \
 Joint work with Massimiliano Datres and Gitta Kutyniok
 
--\[2025\] **Mathematical foundations of Spiking Neural Networks**\ [Arxiv](https://arxiv.org/pdf/2503.02013)\
-To appear at IEEE Signal Processing Magazine, special issue.\
-Joint work with Adalbert Fono, Manjot Singh, Phillip Petersen, Holger Boche and Gitta Kutyniok. 
+-\[2025\] **Mathematical foundations of Spiking Neural Networks** \ [Arxiv](https://arxiv.org/pdf/2503.02013)\
+To appear at IEEE Signal Processing Magazine, special issue \
+Joint work with Adalbert Fono, Manjot Singh, Phillip Petersen, Holger Boche and Gitta Kutyniok
 
--\[2025\] **Time to Spike? Understanding the Representational Power of Spiking Neural Networks**\ [Forty-second International Conference on Machine Learning](https://openreview.net/pdf?id=aqZKgwf7Cc)\
+-\[2025\] **Time to Spike? Understanding the Representational Power of Spiking Neural Networks** \ [Forty-second International Conference on Machine Learning](https://openreview.net/pdf?id=aqZKgwf7Cc) \
 Joint work with Duc Anh Nguyen, Adalbert Fono and Gitta Kutyniok
-
--\[2025\] **Dynamic angular synchronization**\ [Journal of Machine Learning Research](https://www.jmlr.org/papers/volume26/24-0925/24-0925.pdf)\
+ 
+-\[2025\] **Dynamic angular synchronization** \ [Journal of Machine Learning Research](https://www.jmlr.org/papers/volume26/24-0925/24-0925.pdf) \
 Joint work with Mihai Cucuringu and Hemant Tyagi
 
--\[2024\] **Seeded graph matching for the correlated Wigner model via the projected power method**\ [Journal of Machine Learning Research](https://jmlr.org/papers/volume25/22-0402/22-0402.pdf)\
+-\[2024\] **Seeded graph matching for the correlated Wigner model via the projected power method** \ [Journal of Machine Learning Research](https://jmlr.org/papers/volume25/22-0402/22-0402.pdf) \
 Joint work with Guillaume Braun and Hemant Tyagi
 
--\[2023\] **Dynamic Ranking and Translation Synchronization**\ [Information and Inference: A journal of the IMA](https://academic.oup.com/imaiai/article-abstract/12/3/iaad029/7236918?redirectedFrom=fulltext),
-Presented at SIAM Workshop on Network Science [NS22](http://dyn.phys.northwestern.edu/ns22.html).\
+-\[2023\] **Dynamic Ranking and Translation Synchronization** \ [Information and Inference: A journal of the IMA](https://academic.oup.com/imaiai/article-abstract/12/3/iaad029/7236918?redirectedFrom=fulltext),
+Presented at SIAM Workshop on Network Science [NS22](http://dyn.phys.northwestern.edu/ns22.html) \
 Joint work with Eglantine Karlé and Hemant Tyagi
 
--\[2020\] **Random Geometric Graphs on Euclidean Balls**\ [arXiv](https://arxiv.org/abs/2010.13734)
+-\[2020\] **Random Geometric Graphs on Euclidean Balls** \ [arXiv](https://arxiv.org/abs/2010.13734)
 
--\[2020\] **Relative concentration bounds for the spectrum of kernel matrices**\ [arXiv](https://arxiv.org/abs/1812.02108) 
+-\[2020\] **Relative concentration bounds for the spectrum of kernel matrices** \ [arXiv](https://arxiv.org/abs/1812.02108) 
 
--\[2019\] **Latent distance estimation for random geometric graphs**\ [NeurIPS 2019](https://papers.nips.cc/paper/2019/hash/c4414e538a5475ec0244673b7f2f7dbb-Abstract.html).\
+-\[2019\] **Latent distance estimation for random geometric graphs** \ [NeurIPS 2019](https://papers.nips.cc/paper/2019/hash/c4414e538a5475ec0244673b7f2f7dbb-Abstract.html) \
 Joint work with Yohann De Castro
 
 ## Book Chapters
